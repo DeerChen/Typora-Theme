@@ -1,4 +1,4 @@
-# Typora-Theme
+![Typora-Theme](https://socialify.git.ci/DeerChen/Typora-Theme/image?description=1&font=Bitter&language=1&owner=1&pattern=Diagonal%20Stripes&theme=Light)
 
 ## Introduction
 
