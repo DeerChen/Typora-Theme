@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/DeerChen/Typora-Theme/image?description=1&font=Bitter&language=1&owner=1&pattern=Diagonal%20Stripes&theme=Light" alt="Typora-Theme" width="640" height="320" />
+![Typora-Theme][‘https://github.com/DeerChen/Typora-Theme/blob/main/Typora-Theme.webp’]
 
 ## Introduction
 
