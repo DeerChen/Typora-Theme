@@ -1,4 +1,4 @@
-![Typora-Theme][‘https://github.com/DeerChen/Typora-Theme/blob/main/Typora-Theme.webp’]
+![Typora-Theme][‘https://github.com/DeerChen/Typora-Theme/blob/main/Typora-Theme.png’]
 
 ## Introduction
 
