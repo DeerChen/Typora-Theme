@@ -1,4 +1,4 @@
-![Typora-Theme][http://github.com/DeerChen/Typora-Theme/blob/main/Typora-Theme.png]
+![Typora-Theme][imgUrl]
 
 ## Introduction
 
@@ -17,6 +17,7 @@
 ## Installation
 
 放入主题文件夹：`%AppData%\Typora\themes`
+
 ## Maintainers
 
 [Senkita](https://github.com/Senkita)
@@ -26,4 +27,7 @@
 [MIT](https://github.com/DeerChen/Typora-Theme/blob/main/LICENSE) © [Senkita](https://github.com/Senkita)
 
 ## References
+
 1. [OneDarkTheme](http://theme.typora.io/theme/OneDark/)
+
+[imgUrl]: https://socialify.git.ci/DeerChen/Typora-Theme/image?description=1&font=Bitter&language=1&owner=1&pattern=Diagonal%20Stripes&theme=Light
